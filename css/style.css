@@ -1,0 +1,55 @@
+html {
+    background-color: lightgoldenrodyellow;
+}
+
+
+h1 {
+    font-family: sans-serif;
+    font-size: xx-large;
+    border: 5px solid orange;
+    }
+
+p{
+    font-family: sans-serif;
+    font-size: smaller;
+    line-height: 1.6;
+    overflow: scroll;
+}
+
+
+h3 {
+    background-color: lightsalmon;
+    font-family: system-ui;
+    font-size: larger;
+}
+
+h5#f {
+    background-color: lightsalmon;
+    font-family: system-ui;
+    font-size: larger;
+}
+
+h5#s {
+    font-family: system-ui;
+    font-size: large;
+    background-color: lightsalmon;
+}
+
+
+h5#t {
+    font-family: system-ui;
+    font-size: large;
+    background-color: lightsalmon;
+}
+
+ul {
+    font-family: sans-serif;
+    font-size: smaller;
+    line-height: 1.6;
+}
+
+ol {
+    font-family: sans-serif;
+    font-size: smaller;
+    line-height: 1.6;
+}
